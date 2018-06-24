@@ -1,4 +1,4 @@
-package com.buckyball.dp.factory.normal;
+package com.buckyball.dp.factory;
 
 public interface IAnimal {
 	//发出声音

@@ -1,4 +1,4 @@
-package com.buckyball.dp.factory.normal;
+package com.buckyball.dp.factory;
 
 public class AnimalCat implements IAnimal{
 
